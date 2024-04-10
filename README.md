@@ -1,6 +1,6 @@
 # Admin Panel
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My name is Jan Masopoga I am developer and this is one of my projects
+This project was created using React and React libraries
 
 Currently, two official plugins are available:
 
